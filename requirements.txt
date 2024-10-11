@@ -67,7 +67,7 @@ langchain-experimental==0.0.59
 langchain-text-splitters==0.2.0
 langsmith==0.1.63
 largestinteriorrectangle==0.1.0
-lazy-object-proxy==1.4.3
+
 llvmlite==0.38.1
 MarkupSafe==2.1.2
 marshmallow==3.21.2
