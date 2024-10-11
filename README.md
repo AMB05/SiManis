@@ -1,2 +1,1 @@
-# SiManis
-Deteksi Menu MPASI
+pip install flask
