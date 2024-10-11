@@ -123,7 +123,7 @@ python-utils==3.8.2
 pytweening==1.0.4
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
-pywin32==300
+pywin32; platform_system == 'Windows'
 PyYAML==6.0
 pyzmq==22.0.3
 regex==2022.6.2
