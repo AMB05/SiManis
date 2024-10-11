@@ -3,7 +3,7 @@ Werkzeug==2.2.3
 torch
 Pillow==10.3.0  
 os-sys  
-numpy==1.21.0  
+numpy==2.0.0  
 requests==2.25.1
-setuptools==65.5.1
+setuptools==69.6.0
 six
