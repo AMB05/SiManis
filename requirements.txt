@@ -5,4 +5,4 @@ Pillow==10.3.0
 os-sys  
 numpy==1.21.0  
 requests==2.25.1
-setuptools
+setuptools==69.6.0
