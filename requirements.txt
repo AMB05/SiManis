@@ -6,3 +6,4 @@ os-sys
 numpy==1.21.0  
 requests==2.25.1
 setuptools==69.6.0
+six
