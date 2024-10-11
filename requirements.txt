@@ -39,7 +39,6 @@ httpcore==0.15.0
 httpx==0.23.0
 idna==2.10
 imagesize==1.4.1
-imgstitch
 importlib-metadata==6.6.0
 imutils==0.5.4
 iniconfig==2.0.0
