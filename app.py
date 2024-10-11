@@ -10,7 +10,7 @@ UPLOAD_FOLDER = 'static/images'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 # Load YOLOv5 model
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+# device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model = torch.hub.load('ultralytics/yolov5', 'custom', path='best.pt', force_reload=True).to(device)
 
 classes_dict = {
