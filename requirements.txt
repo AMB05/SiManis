@@ -111,7 +111,7 @@ PyMsgBox==1.0.9
 pyparsing==2.4.7
 pyperclip==1.8.2
 pypi-xmlrpc==2020.12.3
-pyproject.toml-based
+pyproject-toml==0.0.10
 PyRect==0.2.0
 PyScreeze==0.1.28
 pyTelegramBotAPI==4.6.0
